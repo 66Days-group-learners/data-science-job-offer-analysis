@@ -11,9 +11,10 @@ We aim to collect and analysis Data Scientist job offers and extract the top dem
 ## ToDo List
 
 ```
-. List job boards offering an API
-. Look into web scraping tools available for site without an API
+. List job boards offering an API -> William
+. Look into web scraping tools available for site without an API -> William
 . Collect open sources datasets
+. Look into examples of text analysis in Python (Spacy)
 ```
 
 ## Structure of the repository
