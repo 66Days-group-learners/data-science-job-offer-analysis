@@ -47,3 +47,7 @@ Directory to be used for development. Each of the authors having one folder to u
 │
 ├── dev         <- Directory for development in progress
 ```
+
+## References
+
+* [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
