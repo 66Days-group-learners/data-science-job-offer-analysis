@@ -17,6 +17,10 @@ We aim to collect and analysis Data Scientist job offers and extract the top dem
 . Look into examples of text analysis in Python (Spacy)
 ```
 
+## Dataset
+
+* A dataset of 1K Data Science jobs offers was collected. 
+
 ## Structure of the repository
 
 #### methods/
